@@ -1,3 +1,7 @@
+// external libraries
+import _ from 'lodash';
+
+// internal libraries
 import Navigation from './navigation';
 import Menu from './menu';
 
